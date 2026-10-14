@@ -1,3 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 :root {
   /* Cores da marca */
   --snitap-sun: #FFCD1E;
@@ -19,8 +25,6 @@
   --text-base: 1rem;
   --text-lg: 2.5rem;
   --text-xl: 4rem;
-
-  
 }
 
 html, button {
@@ -39,4 +43,9 @@ h1 {
 h2 {
     font-size: var(--text-lg);
     line-height: 1.2;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
 }
