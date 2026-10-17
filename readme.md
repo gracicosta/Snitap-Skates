@@ -26,7 +26,7 @@ Projeto desenvolvido para aprimorar minhas habilidades em desenvolvimento front-
 
 O projeto está disponível online e pode ser acessado pelo link abaixo:
 
-🔗 **[Acessar Snitap](https://SEU-USUARIO.github.io/snitap/)**
+🔗 **[Acessar Snitap](https://gracicosta.github.io/Snitap-Skates/)**
 
 Deploy realizado com **GitHub Pages**.
 
