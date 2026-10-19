@@ -22,6 +22,10 @@ Landing page inspirada no universo dos patins, desenvolvida com **HTML5 e CSS3**
 
 Projeto desenvolvido para aprimorar minhas habilidades em desenvolvimento front-end, explorando diferentes recursos de animação do CSS e a construção de interfaces modernas e interativas.
 
+## 📸 Preview do Projeto
+
+![Preview do Snitap Skates](./assets/images/imagem-projeto.png)
+
 ## 🌐 Deploy
 
 O projeto está disponível online e pode ser acessado pelo link abaixo:

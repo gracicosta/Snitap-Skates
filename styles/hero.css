@@ -116,7 +116,7 @@ section.hero {
             z-index: 0;
 
             opacity: 0;
-            transform: translateX(400%);
+            transform: translateX(400%); 
             animation: slideIn 2s 800ms ease both, appear 100ms 800ms both;
         }
 
